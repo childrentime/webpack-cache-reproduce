@@ -1,0 +1,9 @@
+.scss {
+  font-size: 32px;
+  h1 {
+    color: #ff0;
+    display: flex;
+    // FIXME change to flex-start to fix it.
+    justify-content: start;;
+  }
+}
